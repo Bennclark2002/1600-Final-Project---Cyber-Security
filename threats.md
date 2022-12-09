@@ -23,7 +23,7 @@ even trillions! Here are some of the biggest threats that we face daily!
         ** Spyware
         ** Application or website manipulation
     
-   * Social engineering attacks
+   * Social engineering attacks 
       * These attacks consist of manipulation of the user to trick the user 
          into making a security mistake to give away a password of 
           personal information.
@@ -54,7 +54,7 @@ even trillions! Here are some of the biggest threats that we face daily!
                     individuals to giving away personal information and 
                     money
                     
-    * Advanced Persistent Threats (APT) 
+    * Advanced Persistent Threats (APT)
        * An Advanced Persistent Threat or (APT) for short is when a 
           sustained cyber-attack establishes an undetected presence in a 
           network and proceeds to steal sensitive data and information over a 
